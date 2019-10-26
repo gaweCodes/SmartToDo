@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartToDo", "SmartToDo\SmartToDo.csproj", "{B7108154-15B8-41D3-B775-95C27EA938E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartToDo.Tests", "SmartToDo.Tests\SmartToDo.Tests.csproj", "{63314858-7CF4-4ACD-B1DB-8540A8964508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7108154-15B8-41D3-B775-95C27EA938E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7108154-15B8-41D3-B775-95C27EA938E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7108154-15B8-41D3-B775-95C27EA938E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7108154-15B8-41D3-B775-95C27EA938E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63314858-7CF4-4ACD-B1DB-8540A8964508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63314858-7CF4-4ACD-B1DB-8540A8964508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63314858-7CF4-4ACD-B1DB-8540A8964508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63314858-7CF4-4ACD-B1DB-8540A8964508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F00FE4D5-CAA6-480B-93DF-0476AFCA4B0C}
+	EndGlobalSection
+EndGlobal
