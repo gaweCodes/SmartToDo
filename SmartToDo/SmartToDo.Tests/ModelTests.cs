@@ -16,9 +16,9 @@ namespace SmartToDo.Tests
         public void Test() {
             var sut = new Test();
             
-            var result = sut.AddNumbers(5, 2);
+            var result = sut.AddNumbers(5, 3);
 
-            const int expectedResult = 7;
+            const int expectedResult = 8;
             Assert.That(result == expectedResult);
         }
     }
